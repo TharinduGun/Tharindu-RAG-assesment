@@ -1,8 +1,7 @@
 # Tharindu-RAG-assesment
 
-# RAG API – “Attention Is All You Need”
 
-This project is a Retrieval-Augmented Generation (RAG) service built for the JW Infotech AI/ML Internship assessment.
+This project is a Retrieval-Augmented Generation (RAG) service built for the Document with streamlit UI and dockerization
 
 It:
 
